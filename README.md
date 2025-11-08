@@ -84,12 +84,13 @@ You can:
 ## 👤 Author & Credits  
 **Created by:** Soumya Suman Kar  
 **Project:** AirClick Camera - Peace-Sign Gesture Selfie App  
-**Email:** soumya@example.com  
+**Email:** soumyasumankar23@gmail.com  
 
 
 💬 Feel free to **fork** and remix the project — but please **don’t just copy and re-upload** as your own.  
 If you liked it, ⭐ the repo and comment “peace” to get project links on my socials ✌️  
 
 ---
+
 
 
